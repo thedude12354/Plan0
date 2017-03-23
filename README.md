@@ -25,4 +25,8 @@ To do:
   d. Return log in
 2. Calander integration and Class info
   a. Working Schedule that will display current class/room number and next class/room number. Along with time. 
-  b. Option to add assignments to calander(student and teacher)
+  b. Calander
+    - Option to add assignments to calander(student and teacher)
+    - Reminders for upcoming assignments
+    - Mark assignments as finished or not
+    
