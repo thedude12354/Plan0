@@ -12,11 +12,11 @@ To do:
 1. Create a basic GUI
   a. Create a first time log in for new users
   <ol>
-    <li>Username (log in only)<li/>
-    <li>Password<li/>
-    <li>Email<li/>
-    <li>Photo<li/>
-    <li>Class Schedule<li/>
+    <li>Username (log in only)</li>
+    <li type="a">Password</li>
+    <li>Email</li>
+    <li>Photo</li>
+    <li>Class Schedule</li>
     <li>Student ID<li/>
     <li>Birthday<li/>
     <li>First Name<li/>
