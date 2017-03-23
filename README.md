@@ -11,11 +11,18 @@ Features:
 To do:
 1. Create a basic GUI
   a. Create a first time log in for new users
-    - Username
+    - Username (log in only)
     - Password
     - Email
     - Photo
     - Class Schedule
     - Student ID
     - Birthday
-    - <h1>Test<h1/>
+    - First Name
+    - Last Name
+  b. Look into how to make Google integraded login
+  c. Find a database/place to store user information
+  d. Return log in
+2. Calander integration and Class info
+  a. Working Schedule that will display current class/room number and next class/room number. Along with time. 
+  b. Option to add assignments to calander(student and teacher)
