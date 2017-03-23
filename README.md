@@ -13,14 +13,14 @@ To do:
   a. Create a first time log in for new users
   <ol>
     <li>Username (log in only)<li/>
-    - Password
-    - Email
-    - Photo
-    - Class Schedule
-    - Student ID
-    - Birthday
-    - First Name
-    - Last Name
+    <li>Password<li/>
+    <li>Email<li/>
+    <li>Photo<li/>
+    <li>Class Schedule<li/>
+    <li>Student ID<li/>
+    <li>Birthday<li/>
+    <li>First Name<li/>
+    <li>Last Name<li/>
     <ol/>
   b. Look into how to make Google integraded login
   3. Find a database/place to store user information
