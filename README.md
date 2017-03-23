@@ -11,7 +11,8 @@ Features:
 To do:
 1. Create a basic GUI
   a. Create a first time log in for new users
-     Username (log in only)
+  <ol>
+    <li>Username (log in only)<li/>
     - Password
     - Email
     - Photo
@@ -20,6 +21,7 @@ To do:
     - Birthday
     - First Name
     - Last Name
+    <ol/>
   b. Look into how to make Google integraded login
   3. Find a database/place to store user information
   4. Return log in
